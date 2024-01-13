@@ -31,7 +31,7 @@
 
 - 📫 How to reach me **nikacuckiridze47@gmail.com**
 
-- 📝 Check my **[Portfolio](https://www.linkedin.com/in/nika-cuckiridze-387063228/)**
+- 📝 Check my **[Portfolio](https://portfolio-nikaakin.vercel.app/)**
 
 #
 
