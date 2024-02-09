@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nika</h1>
 <h3 align="center">Programmer from Georgia</h3>
-<p align="center">I am a full-stack developer with expertise in React.js, Laravel, Nodejs, Nextjs, SQL, Dart and Flutter. I have experience in building scalable web applications using various frameworks and technologies.
+<p align="center">I am a full-stack developer with expertise in React.js, Laravel, Nodejs, Nextjs, SQL, Dart and Flutter. I have experience of building scalable web applications using various frameworks and technologies.
 </p>
 
 <div align="center">
