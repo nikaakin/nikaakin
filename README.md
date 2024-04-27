@@ -31,7 +31,7 @@
 
 #
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact me:</h3>
 <p align="left">
 <a  href="https://www.linkedin.com/in/nika-cuckiridze-387063228/" target="blank"><img align="center" src="./icons/linkedin.png" alt="linkedin" height="40" width="40" /></a>&nbsp;&nbsp;
 <a href="mailto:nikacuckiridze47@gmail.com" target="blank"><img align="center" src="./icons/email.png" alt="email" height="40" width="42" /></a>
