@@ -25,10 +25,6 @@
 
 ### About me
 
-- 🔭 I’m currently working at **Petinder.online**
-
-- 👨‍💻 All of my projects are available at **[Github](https://github.com/nikaakin?tab=repositories)**
-
 - 📫 How to reach me **nikacuckiridze47@gmail.com**
 
 - 📝 Check my **[Portfolio](https://portfolio-nikaakin.vercel.app/)**
