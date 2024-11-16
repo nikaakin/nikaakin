@@ -27,13 +27,13 @@
 
 - 📫 How to reach me **nikacuckiridze47@gmail.com**
 
-- 📝 Check my **[Portfolio](https://portfolio-nikaakin.vercel.app/)**
-
+- 📝 Check my **<a  href="https://nikac.in/" target="_blank">Portfolio</a>**
+  
 #
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
-<a  href="https://www.linkedin.com/in/nika-cuckiridze-387063228/" target="blank"><img align="center" src="./icons/linkedin.png" alt="linkedin" height="40" width="40" /></a>&nbsp;&nbsp;
-<a href="mailto:nikacuckiridze47@gmail.com" target="blank"><img align="center" src="./icons/email.png" alt="email" height="40" width="42" /></a>
+<a  href="https://www.linkedin.com/in/nika-cuckiridze-387063228/" target="_blank"><img align="center" src="./icons/linkedin.png" alt="linkedin" height="40" width="40" /></a>&nbsp;&nbsp;
+<a href="mailto:nikacuckiridze47@gmail.com" target="_blank"><img align="center" src="./icons/email.png" alt="email" height="40" width="42" /></a>
 </p>
 <br>
