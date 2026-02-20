@@ -1,6 +1,11 @@
-<h1 align="center">Hi 👋, I'm Nika</h1>
-<h3 align="center">Programmer from Georgia</h3>
-<p align="center">I am a full-stack developer with expertise in React.js, Laravel, Nodejs, Nextjs, SQL, Dart and Flutter. I have experience of building scalable web applications using various frameworks and technologies.
+<h1 align="center">Nika Tsutskiridze</h1>
+<p align="center">
+Mobile-first full-stack engineer building scalable, production-ready applications.
+</p>
+
+#
+<p align="center">
+React Native • React • Node.js • Laravel • TypeScript
 </p>
 
 <div align="center">
@@ -18,22 +23,14 @@
   <img src="./icons/mysql.png" alt="mysqlicon"width="65" height="40" />&nbsp;&nbsp;
   <img src="./icons/dart.png" alt="dark" width="40" height="40" />&nbsp;&nbsp;
  <img src="./icons/flutter.png" alt="flutter" width="40" height="40" />&nbsp;&nbsp;
- <img src="./icons/tailwind.png" alt="tailwind" width="65" height="40" />
 </div>
 
 #
 
-### About me
-
-- 📫 How to reach me **nikacuckiridze47@gmail.com**
-
-- 📝 Check my **<a  href="https://nikac.in/" target="_blank">Portfolio</a>**
-  
-#
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
-<a  href="https://www.linkedin.com/in/nika-cuckiridze-387063228/" target="_blank"><img align="center" src="./icons/linkedin.png" alt="linkedin" height="40" width="40" /></a>&nbsp;&nbsp;
-<a href="mailto:nikacuckiridze47@gmail.com" target="_blank"><img align="center" src="./icons/email.png" alt="email" height="40" width="42" /></a>
+<a  href="https://www.linkedin.com/in/nika-tsutskiridze/" target="_blank"><img align="center" src="./icons/linkedin.png" alt="linkedin" height="40" width="40" /></a>&nbsp;&nbsp;
+<a href="mailto:nika.tsutskiridze.dev@gmail.com" target="_blank"><img align="center" src="./icons/email.png" alt="email" height="40" width="42" /></a>
 </p>
 <br>
